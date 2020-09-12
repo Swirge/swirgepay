@@ -1,5 +1,4 @@
-# swirgepay 💎
-Swirge | Pay smart contracts
+# Swirge | Pay 💎
 https://swirgepay.com Feel free to read the code. More details coming soon.
 
 ## Deployed Contracts / Hash
