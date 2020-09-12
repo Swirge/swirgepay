@@ -10,6 +10,7 @@ https://swirgepay.com Feel free to read the code. More details coming soon.
 - (Uni|Basic)swapV2Pair init code hash - 
 - BasicBar - 
 - BasicMaker - 
+
 In-depth documentation on Swirge | Pay is available at [docs.swirgepay.com](https://docs.swirgepay.com/).
 
 ## Install Dependencies
