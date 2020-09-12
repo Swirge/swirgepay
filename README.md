@@ -7,9 +7,9 @@ https://swirgepay.com Feel free to read the code. More details coming soon.
 - SwirgeChef - 
 - (Uni|Basic)swapV2Factory - 
 - (Uni|Basic)swapV2Router02 - 
-- (Uni|Basic)swapV2Pair init code hash - 
-- BasicBar - 
-- BasicMaker - 
+- (Uni|Swirge)swapV2Pair init code hash - 
+- SwirgeBar - 
+- SwirgeMaker - 
 
 In-depth documentation on Swirge | Pay is available at [docs.swirgepay.com](https://docs.swirgepay.com/).
 
