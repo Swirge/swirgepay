@@ -27,4 +27,4 @@ In-depth documentation on Swirge | Pay is available at [docs.swirgepay.com](http
 
 ## License
 
-GPL
+GPL-3.0
