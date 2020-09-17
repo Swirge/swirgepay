@@ -1,0 +1,32 @@
+{
+  "name": "swirgeswap",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "@openzeppelin/contracts": "^3.1.0",
+    "@openzeppelin/test-helpers": "^0.5.6",
+    "truffle": "^5.1.41",
+    "truffle-flattener": "^1.4.4"
+  },
+  "description": "swirge decentralized smart contract protocol",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitbub.com/Swirge/swirgepay"
+  },
+  "keywords": [
+    "SwirgeSwap",
+    "Swirge",
+    "dex",
+    "SwirgeDex",
+    "yieldFarming"
+  ],
+  "author": "SwirgeElite"
+}
