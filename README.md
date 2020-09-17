@@ -15,15 +15,15 @@ In-depth documentation on Swirge | Pay is available at [docs.swirgepay.com](http
 
 ## Install Dependencies
 
-`yarn`
+`npm install`
 
 ## Compile Contracts
 
-`yarn compile`
+`truffle compile`
 
 ## Run Tests
 
-`yarn test`
+`truffle test`
 
 ## License
 
